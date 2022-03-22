@@ -6,7 +6,7 @@
 - 🎓 &nbsp; Studying Information Technology at University of Welkite, Ethiopia(graduating in june 2022).
 - ✍️ &nbsp; Web app developer.
 
-<h3> 🛠 &nbsp;My skills</h3>
+<h3> 🛠 &nbsp;Skills</h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
