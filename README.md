@@ -1,4 +1,6 @@
+<p align="center">
 ### Hi there 👋
+ <p>
 <h2> Hey there! I'm Tewodros.</h2>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
