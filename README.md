@@ -3,10 +3,9 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Information Technology at University of Welkite, Ethiopia.
-- 💼 &nbsp; Working as a .
+- 🎓 &nbsp; Studying Information Technology at University of Welkite, Ethiopia(graduating in june 2022).
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- ✍️ &nbsp; Web app developer.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
