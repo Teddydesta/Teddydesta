@@ -1,14 +1,10 @@
 ### Hi there 👋
-
-<img src="https://raw.githubusercontent.com/Teddydesta/Teddydesta/master/assets/Tewodros%20Vikram%20Singh%20Banner.png">
-
 <h2> Hey there! I'm Tewodros.</h2>
-
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
+- 🎓 &nbsp; Studying Information Technology at University of Welkite, Ethiopia.
+- 💼 &nbsp; Working as a .
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
@@ -44,7 +40,7 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/Teddydesta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Teddydesta&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teddydesta&theme=buefy&layout=compact" />
 </a>
