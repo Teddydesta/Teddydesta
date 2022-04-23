@@ -1,7 +1,7 @@
 
-### Hi there 👋
+### Hi there 👋 I am Tewodros
  
-<h2> Hey there! I'm Tewodros.</h2>
+<h1>Junio Web and Mobile app developer</h1>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - ✍️ &nbsp; Junior Web and Mobile app developer.
