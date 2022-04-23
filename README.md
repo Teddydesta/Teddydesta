@@ -1,10 +1,10 @@
 
 ### Hi there 👋 I am Tewodros
  
-<h1>Junio Web and Mobile app developer</h1>
+<h2>Junior Web and Mobile app developer</h2>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- ✍️ &nbsp; Junior Web and Mobile app developer.
+- ✍️ &nbsp; Full stack Web and Mobile app developer.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Information Technology at University of Welkite, Ethiopia(graduating in june 2022).
 
