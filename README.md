@@ -4,9 +4,10 @@
 <h2> Hey there! I'm Tewodros.</h2>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
+- ✍️ &nbsp; Junior Web and Mobile app developer.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Information Technology at University of Welkite, Ethiopia(graduating in june 2022).
-- ✍️ &nbsp; Web app developer.
+
 
 <h3> 🛠 &nbsp;Skills</h3>
 
