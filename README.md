@@ -6,7 +6,7 @@
 
 - ✍️ &nbsp; Full stack Web and Mobile app developer.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Information Technology at University of Welkite, Ethiopia(graduated on July 2022).
+- 🎓 &nbsp; studied  Information Technology at University of Welkite, Ethiopia(graduated on July 2022).
 
 
 <h3> 🛠 &nbsp;Skills</h3>
