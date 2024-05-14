@@ -1,7 +1,7 @@
 
 ### Hi there 👋 I am Tewodros
  
-<h2>Software developer</h2>
+<h2>DevOps Engineer</h2>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - ✍️ &nbsp; Full stack Web and Mobile app developer.
