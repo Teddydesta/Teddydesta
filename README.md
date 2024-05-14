@@ -36,21 +36,51 @@
 
 ## Tech Stack
 
-#### Programming Languages:
-- Bash, Python, Groovy, Java, Go
+#### Cloud Platforms and Technologies:
+- AWS
+- Azure
+- Infomaniak
+- Openstack
 
-#### Operating Systems:
-- Linux (Ubuntu, Alpine, CentOS)
+#### Infrastructure as Code (IaC):
+- Terraform
+- CloudFormation
 
-#### Databases:
-- MySQL, PostgreSQL, Cassandra, Couchbase
+#### Containerization:
+- Docker
+- Kubernetes
+- Helm
+- RKE2
 
-#### Dev Tools:
-- Maven, SBT, Kafka, Elasticsearch
+#### CI/CD:
+- Jenkins
+- Azure DevOps
 
-#### DevOps Tools:
-- AWS, GCP, Ansible, Terraform, Jenkins, CircleCI, Docker, Kubernetes, Traefik, Nginx, Prometheus, Grafana, and more...
+#### Scripting Languages:
+- Python
+- Bash
+- PowerShell
 
+#### Monitoring and Logging:
+- Prometheus
+- Grafana
+- CloudWatch
+- Azure Monitor
+
+#### Configuration Management:
+- Ansible
+
+#### Security and Code Quality:
+- IAM (Identity and Access Management)
+- SonarQube
+- Trivy
+- OWASP
+- TFLint
+
+#### Networking:
+- Virtual Networks
+- VPNs
+- CDN (Content Delivery Network)
 ---
 
 ## Connect with Me
