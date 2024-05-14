@@ -12,7 +12,7 @@
 🚀 Passionate about leveraging cloud technologies and automation to drive operational efficiency and innovation.
 
 - 💻 DevOps enthusiast who loves automating everything!
-- 📝 I regularly share insights on [Your Blog or Platform].
+- 📝 I regularly share insights on Medium and LinkedIN.
 - 💬 Ask me about DevOps tools and best practices.
 
 ---
