@@ -4,13 +4,7 @@
 <h2>DevOps Engineer</h2>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- ✍️ &nbsp; I thrive in the intersection of technology and efficiency, specializing in DevOps and Cloud Engineering. With a robust background in leading cloud platforms, CI/CD pipelines, containerization, and automation, I am committed to optimizing software delivery and infrastructure management.
-
-My journey in IT has been fueled by a passion for innovation and problem-solving. I excel in leveraging cutting-edge technologies to drive continuous improvement and scalability, aligning with business objectives through seamless deployment and monitoring strategies.
-
-As a DevOps enthusiast, I am dedicated to fostering collaboration between development and operations teams, streamlining processes, and implementing best practices for agile development and deployment.
-
-Let's connect to explore how I can contribute to your team's success with my expertise in DevOps and Cloud Engineering.
+- ✍️ &nbsp; I specialize in DevOps and Cloud Engineering, with expertise in leading cloud platforms, CI/CD pipelines, containerization, and automation. I thrive on innovation and excel in optimizing software delivery and infrastructure management to align with business goals.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; studied  Information Technology at University of Welkite, Ethiopia(graduated on July 2022).
 
