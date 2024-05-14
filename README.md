@@ -19,7 +19,7 @@
 
 ## Current Work
 
-- 🔭 I’m currently working at [Current Company] as a Senior Cloud | DevOps Engineer.
+- 🔭 I’m currently working as a freelance and parttime Cloud | DevOps Engineer.
 - 🌱 I’m currently focused on standardizing Jenkins pipelines using DSL.
 
 ---
