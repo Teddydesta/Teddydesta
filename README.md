@@ -3,7 +3,7 @@
 🌩️ **Cloud | DevOps Engineer**  
 🌍 Addis Ababa, Ethiopia  
 📧 teddydesta2021@gmail.com  
-🔗 [GitHub](https://github.com/yourusername) | [LinkedIn](https://www.linkedin.com/in/yourprofile) | [Portfolio](https://yourportfolio.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile) | [Portfolio](https://yourportfolio.com)
 
 ---
 
