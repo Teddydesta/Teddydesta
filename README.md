@@ -25,11 +25,11 @@
 ---
 
 ## Certifications
-
+- 🎖 Microsoft Certified: Azure Administrator Associate(AZ-104)
+- 🎖 Microsoft Certified Azure Fundamentals (AZ-900)
+- 🎖 AWS Certified Cloud Practitioner (AWS CCP)
 - 🎖 Nedamco Africa Cloud Academy Training Program
 - 🎖 AI Career Essentials Training Program
-- 🎖 AWS Certified Cloud Practitioner (AWS CCP) - Feb 2024
-- 🎖 Microsoft Certified Azure Fundamentals (AZ-900) - March 2024
 - 🎖 HUAWEI Certified Information Associate (HCIA Datacom)
 
 ---
