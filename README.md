@@ -54,6 +54,8 @@
 
 #### CI/CD:
 - 🛠️ Jenkins
+- ArgoCD
+- GitLab
 - 🛠️ Azure DevOps
 
 #### Scripting Languages:
@@ -69,6 +71,7 @@
 
 #### Configuration Management:
 - ⚙️ Ansible
+- 🤖 Puppet
 
 #### Security and Code Quality:
 - 🔒 IAM (Identity and Access Management)
