@@ -25,6 +25,7 @@
 ---
 
 ## Certifications
+- 🎖 Microsoft Certified: DevOps Engineer Expert(AZ-400)
 - 🎖 Microsoft Certified: Azure Administrator Associate(AZ-104)
 - 🎖 Microsoft Certified Azure Fundamentals (AZ-900)
 - 🎖 AWS Certified Cloud Practitioner (AWS CCP)
