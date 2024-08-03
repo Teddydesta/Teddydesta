@@ -46,6 +46,7 @@
 **Infrastructure as Code (IaC)**  
 - 🏗️ Terraform  
 - 🏗️ CloudFormation  
+- 🏗️ ARM (Azure Resource Manager)  
 
 **Containerization**  
 - 🐳 Docker  
@@ -55,9 +56,9 @@
 
 **CI/CD**  
 - 🛠️ Jenkins  
+- 🔄 ArgoCD  
+- 🧩 GitLab  
 - 🛠️ Azure DevOps  
-- 🛠️ GitLab  
-- 🛠️ ArgoCD  
 
 **Scripting Languages**  
 - 🐍 Python  
@@ -77,7 +78,7 @@
 **Security and Code Quality**  
 - 🔒 IAM (Identity and Access Management)  
 - 🔍 SonarQube  
-- 🕵️ Trivy  
+- 🕵️‍♂️ Trivy  
 - 🛡️ OWASP  
 - 🧱 TFLint  
 
@@ -85,17 +86,40 @@
 - 🌐 Virtual Networks  
 - 🔒 VPNs  
 - 📦 CDN (Content Delivery Network)  
-- 🔗 Proxy  
-- 🌍 Apache  
-- 🌐 Nginx  
+- 🔄 Proxy  
+- 🔧 Apache  
+- 🌀 Nginx  
 - ☁️ AWS CloudFront  
-- 🖥️ GlassFish  
+- 🌉 GlassFish  
 
 **Database Technologies**  
 - 🗃️ MongoDB  
-- 🗄️ Redis  
-- 🗳️ SQL  
-- 📚 DynamoDB  
+- 🗃️ Redis  
+- 🗃️ SQL  
+- 🗃️ DynamoDB  
+
+**Programming Languages**  
+- 💻 JavaScript  
+- 🐍 Python  
+- ☕ Java  
+- 💾 C++  
+- 🅒 C#  
+- 🌐 Go  
+- 🎯 Dart  
+- 🐘 PHP  
+- 📜 TypeScript  
+- 🛠️ Groovy  
+- 💎 Ruby  
+
+**Frameworks and Libraries**  
+- 🏗️ Django  
+- 🖥️ ASP.NET  
+- ⚙️ Node.js  
+- 🦋 Flutter  
+- ⚛️ React.js  
+- 🎨 Tailwind CSS  
+- 🧩 Styled-components  
+- 🛠️ Express.js  
 
 ---
 
