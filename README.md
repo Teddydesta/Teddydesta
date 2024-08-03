@@ -85,17 +85,17 @@
 - 🌐 Virtual Networks  
 - 🔒 VPNs  
 - 📦 CDN (Content Delivery Network)  
-- Proxy  
-- Apache  
-- Nginx  
-- AWS CloudFront  
-- GlassFish  
+- 🔗 Proxy  
+- 🌍 Apache  
+- 🌐 Nginx  
+- ☁️ AWS CloudFront  
+- 🖥️ GlassFish  
 
 **Database Technologies**  
-- MongoDB  
-- Redis  
-- SQL  
-- DynamoDB  
+- 🗃️ MongoDB  
+- 🗄️ Redis  
+- 🗳️ SQL  
+- 📚 DynamoDB  
 
 ---
 
