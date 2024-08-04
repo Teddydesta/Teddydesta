@@ -37,6 +37,10 @@
 
 ## Tech Stack
 
+<table>
+  <tr>
+    <td>
+
 **Cloud Platforms and Technologies**  
 - ☁️ AWS  
 - ☁️ Azure  
@@ -82,6 +86,9 @@
 - 🛡️ OWASP  
 - 🧱 TFLint  
 
+    </td>
+    <td>
+
 **Networking**  
 - 🌐 Virtual Networks  
 - 🔒 VPNs  
@@ -120,6 +127,10 @@
 - 🎨 Tailwind CSS  
 - 🧩 Styled-components  
 - 🛠️ Express.js  
+
+    </td>
+  </tr>
+</table>
 
 ---
 
