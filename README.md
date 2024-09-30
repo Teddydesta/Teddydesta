@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Tewodros Desta
 
-🌩️ **Cloud | DevOps Engineer | Software Developer**  
+🌩️ **DevOps Engineer**  
 🌍 Addis Ababa, Ethiopia  
 📧 teddydesta2021@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/tewodros-desta/) | [Portfolio](https://medium.com/@teddy2000)
