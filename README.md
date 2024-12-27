@@ -42,7 +42,8 @@
     <td>
 
 **Cloud Platforms and Technologies**  
-- ☁️ AWS  
+- ☁️ AWS
+- ☁️ GCP  
 - ☁️ Azure  
 - ☁️ Infomaniak  
 - ☁️ OpenStack  
