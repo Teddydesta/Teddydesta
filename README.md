@@ -60,10 +60,11 @@
 - 🚀 RKE2  
 
 **CI/CD**  
-- 🛠️ Jenkins  
-- 🔄 ArgoCD  
-- 🧩 GitLab  
+- 🧩 GitLab
+- 🔄 ArgoCD
 - 🛠️ Azure DevOps  
+- 🛠️ Jenkins  
+
 
 **Scripting Languages**  
 - 🐍 Python  
@@ -72,7 +73,8 @@
 
 **Monitoring and Logging**  
 - 📊 Prometheus  
-- 📊 Grafana  
+- 📊 Grafana
+- 📊 Signoz
 - ☁️ CloudWatch  
 - ☁️ Azure Monitor  
 
