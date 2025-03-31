@@ -19,7 +19,7 @@
 
 ## Current Work
 
-- 🔭 I’m currently working as a freelance DevOps Engineer.
+- 🔭 I’m currently working as a Intermediate DevOps Engineer at Gebeya Inc.
 - 🌱 I’m currently working as a part-time AWS and Azure Trainer remotely.
 
 ---
@@ -37,103 +37,37 @@
 
 ## Tech Stack
 
-<table>
-  <tr>
-    <td>
+### Cloud & Platforms  
+☁️ AWS, GCP, Azure, OpenStack, Infomaniak  
 
-**Cloud Platforms and Technologies**  
-- ☁️ AWS
-- ☁️ GCP  
-- ☁️ Azure  
-- ☁️ Infomaniak  
-- ☁️ OpenStack  
+### Infrastructure as Code (IaC)  
+🏗️ Terraform, CloudFormation, ARM  
 
-**Infrastructure as Code (IaC)**  
-- 🏗️ Terraform  
-- 🏗️ CloudFormation  
-- 🏗️ ARM (Azure Resource Manager)  
+### CI/CD & Automation  
+🔄 GitLab CI/CD, ArgoCD, GitHub Actions, Jenkins, Azure DevOps, n8n  
 
-**Containerization**  
-- 🐳 Docker  
-- ☸️ Kubernetes  
-- 🎩 Helm  
-- 🚀 RKE2  
+### Containerization & Orchestration  
+🐳 Docker, Kubernetes (GKE, AKS, EKS), Helm, RKE2  
 
-**CI/CD**  
-- 🧩 GitLab
-- 🔄 ArgoCD
-- 🛠️ Azure DevOps  
-- 🛠️ Jenkins  
+### Monitoring & Observability  
+📊 Prometheus, Grafana, Loki, CloudWatch, Azure Monitor, OpenTelemetry  
 
+### Security & Compliance  
+🔒 Trivy, SonarQube, OWASP, IAM, HashiCorp Vault, TFLint  
 
-**Scripting Languages**  
-- 🐍 Python  
-- 🐚 Bash  
-- 💻 PowerShell  
+### Networking & API Gateways  
+🌐 Nginx, Apache, CloudFront, APISIX, HAProxy  
 
-**Monitoring and Logging**  
-- 📊 Prometheus  
-- 📊 Grafana
-- 📊 Signoz
-- ☁️ CloudWatch  
-- ☁️ Azure Monitor  
+### Databases & Messaging Systems  
+🗃️ MongoDB, Redis, SQL, DynamoDB, RabbitMQ, Kafka, Dapr  
 
-**Configuration Management**  
-- ⚙️ Ansible  
-- 🤖 Puppet  
+### Scripting & Development  
+🐍 Python, Bash, Golang, PowerShell  
 
-**Security and Code Quality**  
-- 🔒 IAM (Identity and Access Management)  
-- 🔍 SonarQube  
-- 🕵️‍♂️ Trivy  
-- 🛡️ OWASP  
-- 🧱 TFLint  
+### DevOps & Cloud Best Practices  
+🚀 GitOps, Infrastructure as Code (IaC), FinOps, Kubernetes Cost Optimization  
+🛠️ Site Reliability Engineering (SRE), Chaos Engineering, Observability  
 
-    </td>
-    <td>
-
-**Networking**  
-- 🌐 Virtual Networks  
-- 🔒 VPNs  
-- 📦 CDN (Content Delivery Network)  
-- 🔄 Proxy  
-- 🔧 Apache  
-- 🌀 Nginx  
-- ☁️ AWS CloudFront  
-- 🌉 GlassFish  
-
-**Database Technologies**  
-- 🗃️ MongoDB  
-- 🗃️ Redis  
-- 🗃️ SQL  
-- 🗃️ DynamoDB  
-
-**Programming Languages**  
-- 💻 JavaScript  
-- 🐍 Python  
-- ☕ Java  
-- 💾 C++  
-- 🅒 C#  
-- 🌐 Go  
-- 🎯 Dart  
-- 🐘 PHP  
-- 📜 TypeScript  
-- 🛠️ Groovy  
-- 💎 Ruby  
-
-**Frameworks and Libraries**  
-- 🏗️ Django  
-- 🖥️ ASP.NET  
-- ⚙️ Node.js  
-- 🦋 Flutter  
-- ⚛️ React.js  
-- 🎨 Tailwind CSS  
-- 🧩 Styled-components  
-- 🛠️ Express.js  
-
-    </td>
-  </tr>
-</table>
 
 ---
 
