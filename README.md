@@ -1,79 +1,51 @@
-# Hi there! 👋 I'm Tewodros Desta
+# Hi there 👋 I'm Tewodros Desta
 
-🌩️ **DevOps Engineer**  
 🌍 Addis Ababa, Ethiopia  
-📧 teddydesta2021@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/tewodros-desta/) | [Portfolio](https://medium.com/@teddy2000)
+📧 [Email Me](mailto:teddydesta2021@gmail.com) • 🔗 [LinkedIn](https://www.linkedin.com/in/tewodros-desta/) • 🌐 [Portfolio](https://teddy-portfolio-ruby.vercel.app/)
 
 ---
 
-## About Me
+## 🚀 About Me
 
-🚀 Passionate about leveraging cloud technologies and automation to drive operational efficiency and innovation.
+I'm passionate about building scalable applications, automating infrastructure, and designing cloud-native solutions.  
+I enjoy working across the stack — from frontend interfaces to backend services, CI/CD pipelines, and cloud deployments.  
 
-- 💻 DevOps enthusiast who loves automating everything!
-- 📝 I regularly share insights on Medium and LinkedIn.
-- 💬 Ask me about DevOps tools and best practices.
-
----
-
-## Current Work
-
-- 🔭 I’m currently working as a Intermediate DevOps Engineer at Gebeya Inc.
-- 🌱 I’m currently working as a part-time AWS and Azure Trainer remotely.
+🛠 Always learning, always building.
 
 ---
 
-## Certifications
-- 🎖 Microsoft Certified: DevOps Engineer Expert (AZ-400)
-- 🎖 Microsoft Certified: Azure Administrator Associate (AZ-104)
-- 🎖 Microsoft Certified Azure Fundamentals (AZ-900)
-- 🎖 AWS Certified Cloud Practitioner (AWS CCP)
-- 🎖 Nedamco Africa Cloud Academy Training Program
-- 🎖 AI Career Essentials Training Program
-- 🎖 HUAWEI Certified Information Associate (HCIA Datacom)
+## 💼 Current Work
+
+- DevOps Engineer @ **Gebeya Inc.**
+- Freelance **Full stack Engineer** 
 
 ---
 
-## Tech Stack
+## 📜 Certifications
 
-### Cloud & Platforms  
-☁️ AWS, GCP, Azure, OpenStack, Infomaniak  
-
-### Infrastructure as Code (IaC)  
-🏗️ Terraform, CloudFormation, ARM  
-
-### CI/CD & Automation  
-🔄 GitLab CI/CD, ArgoCD, GitHub Actions, Jenkins, Azure DevOps, n8n  
-
-### Containerization & Orchestration  
-🐳 Docker, Kubernetes (GKE, AKS, EKS), Helm, RKE2  
-
-### Monitoring & Observability  
-📊 Prometheus, Grafana, Loki, CloudWatch, Azure Monitor, OpenTelemetry  
-
-### Security & Compliance  
-🔒 Trivy, SonarQube, OWASP, IAM, HashiCorp Vault, TFLint  
-
-### Networking & API Gateways  
-🌐 Nginx, Apache, CloudFront, APISIX, HAProxy  
-
-### Databases & Messaging Systems  
-🗃️ MongoDB, Redis, SQL, DynamoDB, RabbitMQ, Kafka, Dapr  
-
-### Scripting & Development  
-🐍 Python, Bash, Golang, PowerShell  
-
-### DevOps & Cloud Best Practices  
-🚀 GitOps, Infrastructure as Code (IaC), FinOps, Kubernetes Cost Optimization  
-🛠️ Site Reliability Engineering (SRE), Chaos Engineering, Observability  
-
+- 🏆 Microsoft Certified: DevOps Engineer Expert (AZ-400)
+- 🏆 Microsoft Certified: Azure Administrator Associate (AZ-104)
+- 🏆 AWS Certified Cloud Practitioner (AWS CCP)
+- 🏆 Microsoft Certified Azure Fundamentals (AZ-900)
 
 ---
 
-## Connect with Me
+## 🛠 Tech Stack
 
-📫 Email: teddydesta2021@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/tewodros-desta/)
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-Feel free to reach out to collaborate or discuss any DevOps-related topics!
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style)
