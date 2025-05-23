@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Tewodros Desta
+# Hi there 👋 I'm Teddy Desta
 
 🌍 Addis Ababa, Ethiopia  
 📧 [Email Me](mailto:teddydesta2021@gmail.com) • 🔗 [LinkedIn](https://www.linkedin.com/in/tewodros-desta/) • 🌐 [Portfolio](https://teddy-portfolio-ruby.vercel.app/)
